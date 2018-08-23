@@ -28,21 +28,21 @@ const Wrapper = styled.section`
 const Bio = () => (
   <Wrapper>
     <a
-      href="https://github.com/wonism/gatsby-advanced-blog"
+      href="https://github.com/ravenusric"
       target="_blank"
       rel="noreferrer noopener"
     >
       <img
-        src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"
+        src="https://avatars3.githubusercontent.com/u/39242730?s=400&u=5a5d91138e6c4a4e787586f232c72a5ea9b690ab&v=4"
         width="48"
         height="48"
         alt=""
       />
       <span>
-        Gatsby Advanced Blog
+        RavenusRic Roney
         <br />
         <small>
-          Gatsby Starter for Advanced Blog
+          RavenusRic Blog
         </small>
       </span>
     </a>

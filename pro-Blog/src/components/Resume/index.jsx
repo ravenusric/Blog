@@ -109,7 +109,7 @@ class Resume extends PureComponent {
             <title>
               RavenusRic | RESUME
             </title>
-            <meta name="og:title" content="WONISM | RESUME" />
+            <meta name="og:title" content="RavenusRic | RESUME" />
           </Helmet>
           <Clearfix>
             <button type="button" onClick={printPage}>

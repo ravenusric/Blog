@@ -36,9 +36,9 @@ const TaggedList = ({ data, location }) => {
       <PostsWrapper>
         <Helmet>
           <title>
-            {`WONISM | ${toUpper(tag)}`}
+            {`RavenusRic | ${toUpper(tag)}`}
           </title>
-          <meta name="og:title" content={`WONISM | ${toUpper(tag)}`} />
+          <meta name="og:title" content={`RavenusRic | ${toUpper(tag)}`} />
         </Helmet>
         {isEmpty(posts) ? (
           <div>

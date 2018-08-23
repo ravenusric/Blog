@@ -25,9 +25,9 @@ const NotFoundPage = () => (
   <Wrapper>
     <Helmet>
       <title>
-        WONISM | PAGE NOT FOUND
+        RavenusRic | PAGE NOT FOUND
       </title>
-      <meta name="og:title" content="WONISM | PAGE NOT FOUND" />
+      <meta name="og:title" content="RavenusRic | PAGE NOT FOUND" />
     </Helmet>
     <h1>
       Page Not Found
