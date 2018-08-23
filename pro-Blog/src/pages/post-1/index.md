@@ -1,6 +1,6 @@
 ---
 path: "/post-1/"
-category: "School Projects"
+category: "Projects"
 tags: ["tag"]
 title: "Stockify"
 date: "2018-01-01T00:00:00.000Z"
