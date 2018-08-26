@@ -19,7 +19,7 @@ const Footer = () => (
   <FooterWrapper>
     Pura
     <a
-      href="https://github.com/wonism/gatsby-advanced-blog"
+      href="https://github.com/ravenusric"
       target="_blank"
       rel="noreferrer noopener"
     >
