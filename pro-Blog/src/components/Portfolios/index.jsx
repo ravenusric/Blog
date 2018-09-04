@@ -22,7 +22,7 @@ const Portfolios = ({ data }) => {
         <title>
           RavenusRic | PORTFOLIO
         </title>
-        <meta name="og:title" content="WONISM | PORTFOLIOS" />
+        <meta name="og:title" content="RavenusRic | PORTFOLIOS" />
       </Helmet>
       {map((portfolio) => {
         if (portfolio.node.path !== '/404/') {

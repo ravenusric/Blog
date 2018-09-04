@@ -25,7 +25,7 @@ const List = ({ data, location }) => {
           <title>
             RavenusRic | POST
           </title>
-          <meta name="og:title" content="RavenuRic | POST" />
+          <meta name="og:title" content="RavenusRic | POST" />
         </Helmet>
         {map((post) => {
           if (post.node.path !== '/404/') {

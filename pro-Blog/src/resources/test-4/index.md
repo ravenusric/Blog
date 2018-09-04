@@ -4,12 +4,12 @@ title: "Catawba Coffee Co."
 date: "2018-01-04:00:00.000Z"
 path: "/portfolios/portfolio-4/"
 images: [
-  "test-4/cchome.png",
-  "test-4/ccabout.png",
-  "test-4/ccgallery.png",
-  "test-4/cccontact.png",
-  "test-4/ccmenu.png",
-  "test-4/ccevents.png",
+  "test-4/catawbahome.png",
+  "test-4/catawbaabout.png",
+  "test-4/catawbagallery.png",
+  "test-4/catawbacontact.png",
+  "test-4/catawbamenu.png",
+  "test-4/catawbaevents.png",
 ]
 ---
 
